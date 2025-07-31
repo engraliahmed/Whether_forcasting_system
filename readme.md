@@ -1,0 +1,3 @@
+# This is basically a GUI based application with some advance and minimal features. From now onward I'm working on this project to add more interesting stuff in this...
+
+## Happy Coding :)
